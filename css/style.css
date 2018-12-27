@@ -1,0 +1,463 @@
+.homeimage
+{
+    background-image:linear-gradient(#1c1941, rgba(15, 0, 64, 0.78)), url("../image/homebanner.png");
+    background-attachment: fixed;
+    background-blend-mode:darken;
+    /*z-index: 99;*/
+    /*overflow: hidden;*/
+    background-size: cover;
+    opacity: 0.9;
+
+
+
+}
+
+
+
+.navcolor
+{
+    background-color: #26BAFF;
+}
+.textcolor
+{
+    color: white;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+.textcolor1
+{
+    font-size:98px;
+    font-weight: 700;
+    /*color:#26BAFF ;*/
+
+
+}
+.textcolor2
+{
+    font-size:98px;
+    font-weight: 700;
+    color:#26BAFF ;
+
+}
+.box1
+{
+    height: 55px;
+    width: 20px;
+    border: 1px solid white;
+    border-radius: 4px;
+
+}
+.rivia
+{
+    position: absolute;
+    margin-left: 70px;
+}
+.seconpagetext
+{
+  font-weight: 700;
+}
+.seconpagetext2
+{
+    font-weight: 700;
+    color:#26BAFF ;
+}
+.underline
+{
+    position: relative;
+    height: 5px;
+    width: 100px;
+    background-color: #26BAFF;
+    top: 10px;
+}
+.underline::before
+{
+    content: '';
+    width: 4px;
+    height: 5px;
+    position: absolute;
+    right: -8px;
+    /*top: 0;*/
+    float: left;
+    background-color: #26BAFF;
+
+
+}
+.underline::after
+{
+    content: '';
+    width: 4px;
+    height: 5px;
+    position: absolute;
+    right: -15px;
+    /*top: 0;*/
+    float: left;
+    background-color: #26BAFF;
+
+
+}
+.aboutbtn
+{
+    position: relative;
+    top: -30px;
+    background-color: #26BAFF;
+    font-weight: bolder;
+    box-sizing: border-box;
+
+}
+.aboutbtn:hover
+{
+    background-color:#232044; ;
+}
+.aboutbtn2
+{
+    position: relative;
+    top:-30px;
+    left: -10px;
+    background-color: #232044;
+
+
+}
+
+.aaa
+{
+    position: absolute;
+    left: 45px;
+
+}
+.bcolor
+{
+    background-color: #232044;;
+}
+.textcolor
+{
+    color: #26BAFF ;
+}
+.thirdpage
+{
+    position: relative;
+    left: 15px;
+    top: 10px;
+
+}
+.underline3page
+{
+    position: relative;
+    height: 5px;
+    width: 110px;
+    background-color: #26BAFF;
+    top: 18px;
+    left: 60px;
+}
+.underline3page::before
+{
+    content: '';
+    width: 4px;
+    height: 5px;
+    position: absolute;
+    right: -6px;
+    /*top: 0;*/
+    float: left;
+    background-color: #26BAFF;
+
+
+}
+.underline3page::after {
+    content: '';
+    width: 4px;
+    height: 5px;
+    position: absolute;
+    right: -12px;
+    /*top: 0;*/
+    float: left;
+    background-color: #26BAFF;
+}
+.imclass
+{
+    position: relative;
+    left: 48px;
+    top: -25px;
+}
+.imclass1
+{
+    position: relative;
+    /*margin-bottom: 15px;*/
+    left: 0px;
+    top: -25px;
+}
+
+.imclass2
+{
+    position: relative;
+    margin-bottom: 15px;
+    left: 0px;
+    top: -5px;
+}
+
+.imclass3
+{
+    position: relative;
+    left: 45px;
+    margin-bottom: 15px;
+    top: -5px;
+}
+
+.imclass4
+{
+    position: relative;
+    left: 48px;
+    top: -25px;
+}
+
+.imclass5
+{
+    position: relative;
+    left: 48px;
+    top: -25px;
+}
+.cont
+{
+    height: 10%;
+    width: 100%;
+    background-color: #232044;;
+
+}
+.cont1
+{
+
+
+height: 25%;
+width: 100%;
+background-color:white;;
+
+}
+.text
+{
+    font-family: sans-serif;
+}
+.underline4page
+{
+    position: relative;
+    height: 5px;
+    width: 110px;
+    background-color: #26BAFF;
+    top: 18px;
+    left: 490px;
+}
+.underline4page::before {
+    content: '';
+    width: 4px;
+    height: 5px;
+    position: absolute;
+    right: -7px;
+    /*top: 0;*/
+    float: left;
+    background-color: #26BAFF;
+}
+
+.underline4page::after {
+    content: '';
+    width: 4px;
+    height: 5px;
+    position: absolute;
+    right: -14px;
+    /*top: 0;*/
+    float: left;
+    background-color: #26BAFF;
+}
+.forthtext
+{
+font-weight: 500;
+font-size: 16px;
+}
+.cont2
+{
+
+
+    height: 15%;
+    width: 100%;
+    background-color:white;;
+
+}
+.figuretxt
+{
+    font-weight:600;
+    color: #232044;
+    font-size: 18px;
+    line-height: 1.3em;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+    padding-top: 22px;
+}
+.fetureborder
+{
+    border: 1px solid black;
+
+}
+.fetureimg
+{
+    font-weight:400;
+    color: #232044;
+
+
+
+}
+.fetureimg:hover
+{
+    background-color: #232044;
+    font-weight:400;
+    color: #26BAFF
+
+
+
+}
+.underline5page
+{
+    position: relative;
+    height: 5px;
+    width: 110px;
+    background-color: #26BAFF;
+    top: 5px;
+    left: 486px;
+}
+.underline5page::before {
+    content: '';
+    width: 4px;
+    height: 5px;
+    position: absolute;
+    right: -7px;
+    /*top: 0;*/
+    float: left;
+    background-color: #26BAFF;
+}
+
+.underline5page::after {
+    content: '';
+    width: 4px;
+    height: 5px;
+    position: absolute;
+    right: -14px;
+    /*top: 0;*/
+    float: left;
+    background-color: #26BAFF;
+
+}
+
+.portfolio
+{
+    font-weight: 500;
+    font-size: 16px;
+    padding-top: 23px;
+
+
+}
+
+.portfolio_button
+{
+    background-color: #232044;
+    color: #26BAFF;
+    border-radius: 0px;
+}
+.portfolio_image
+{
+
+    box-sizing: border-box;
+
+}
+.promoimg
+{
+    background-image:linear-gradient(rgba(28, 24, 81, 0.78), rgba(11, 0, 41, 0.82)), url("../image/promo_bg.jpg");
+  background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode:darken;
+    opacity: 0.9;
+}
+.funimg
+{
+    position: absolute;
+    top: 85px;
+}
+.teamimg
+{
+   border: 0px;
+}
+.teamcolor
+{
+
+    background-color: #F6F6F6;
+
+}
+.pacgtext
+{
+    position: absolute;
+    top: 250px;
+    left: 55px;
+}
+.pacgtext1
+{
+   font-weight: 500;
+}
+.packimg
+{
+    background-image:linear-gradient(rgba(28, 24, 81, 0.78), rgba(11, 0, 41, 0.82)), url("../image/review_bg.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode:darken;
+    opacity: 0.9;
+}
+.packj
+{
+    position: absolute;
+    top: 40px;
+    left: 500px;
+
+}
+.imgtext
+{
+    position: relative;
+    top: 180px;
+    left: 10px;
+}
+.imgtext1
+{
+    position: relative;
+    top: 200px;
+    left: 60px;
+}
+.card
+{
+    box-sizing: border-box;
+     box-shadow: 10px 10px 10px 10px;
+
+}
+.cardcolor
+{
+    position: absolute;
+    overflow: hidden;
+    z-index: 1;
+
+}
+.z4
+{
+    z-index: 50;
+
+}
+.cardcolor::after
+{
+    content: '';
+    height: 160px;
+    width: 100%;
+    position: absolute;
+    left: -40px;
+    top: -40px;
+    background-color: #26BAFF;
+    border-radius: 70px;
+    transform: rotate(30deg);
+    overflow: hidden;
+    z-index: -1;
+}
+.text11
+{
+
+    z-index: -1;
+
+}
